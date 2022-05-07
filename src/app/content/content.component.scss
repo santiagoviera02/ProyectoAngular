@@ -1,0 +1,22 @@
+.tituloContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    background-color: azure;
+}
+
+.title {
+    position: fixed;
+    margin-left: 280px;
+}
+
+.subtitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    background-color: azure;
+    position: fixed;
+    margin-left: 280px;
+}
